@@ -2,7 +2,17 @@
 Promoting rural prosperity through a versatile income-building approach
 
 [![Video](G.A.R.I.B thumbnail.jpg)](https://youtu.be/leWy-bZ3V3U)
-      
+
+
+
+
+
+## Download the App
+
+You can download the app here:
+
+[Download APK](https://github.com/gauravkumarchaurasiya/G.A.R.I.B-General-Application-for-Rural-Income-Building/blob/main/app/release/app-release.apk)
+
 ### **Problem Statement:** The economic challenges faced by underprivileged individuals with limited education in accessing loans and securing suitable employment despite possessing valuable skills.
   
 **Description:** In today's society, economic inequality remains a persistent problem, affecting vulnerable populations who lack access to resources and opportunities. Among these individuals, a significant issue arises when attempting to obtain loans or secure employment, even when possessing relevant skills. This problem statement aims to highlight the challenges faced by economically weak and uneducated individuals who possess valuable skills but struggle to utilise them effectively due to systemic barriers.
