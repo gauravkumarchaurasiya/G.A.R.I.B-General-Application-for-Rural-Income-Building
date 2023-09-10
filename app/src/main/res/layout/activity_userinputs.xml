@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26F095FF"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".UserInputsActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="Before proceeding, please share the required information*"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/etCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:autofillHints=""
+        android:hint="City"
+        android:inputType="text"
+        android:minHeight="48dp"
+        tools:ignore="HardcodedText,VisualLintTextFieldSize" />
+
+    <EditText
+        android:id="@+id/etAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:autofillHints=""
+        android:hint="Age"
+        android:inputType="number"
+        android:minHeight="48dp"
+        tools:ignore="HardcodedText,VisualLintTextFieldSize" />
+
+    <RadioGroup
+        android:id="@+id/rgSex"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp">
+
+        <RadioButton
+            android:id="@+id/rbMale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            tools:ignore="HardcodedText" />
+
+        <RadioButton
+            android:id="@+id/rbFemale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            tools:ignore="HardcodedText" />
+
+        <RadioButton
+            android:id="@+id/rbOther"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Other"
+            tools:ignore="HardcodedText" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/etPrimaryBusiness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:autofillHints=""
+        android:hint="Primary Business"
+        android:inputType="text"
+        android:minHeight="48dp"
+        android:textColorHint="#616161"
+        tools:ignore="HardcodedText,VisualLintTextFieldSize" />
+
+    <EditText
+        android:id="@+id/etAnnualIncome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:autofillHints=""
+        android:hint="Annual Income(Rs)"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textColorHint="#616161"
+        tools:ignore="HardcodedText,VisualLintTextFieldSize" />
+
+    <EditText
+        android:id="@+id/etYoungDependents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:hint="Young Dependents(Integer)"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textColorHint="#616161"
+        tools:ignore="Autofill,HardcodedText,VisualLintTextFieldSize" />
+
+    <Spinner
+        android:id="@+id/spinnerHomeOwnership"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/etHouseArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:autofillHints=""
+        android:hint="House Area(Kattha)"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:textColorHint="#546E7A"
+        tools:ignore="HardcodedText,VisualLintTextFieldSize" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="@color/primary"
+        android:text="Save"
+        android:textColor="#5D4037"
+        tools:ignore="HardcodedText,VisualLintButtonSize" />
+
+    <TextView
+        android:id="@+id/skip"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="SKIP"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">G.A.R.I.B -General Application for Rural Income Building</string>
+    <string name="continuebtn">Continue</string>
+    <string name="welcomemsg">WELCOME TO \nG.A.R.I.B</string>
+    <string name="generalmsg">General Application for Rural Income Building</string>
+    <string name="generalmsg1">Please Login to continue...</string>
+    <string name="infomsg">Promoting rural prosperity through a versatile income-building approach</string>
+    <string name="vectorimage">VectorImage</string>
+    <string name="landingpageimg">LandingPageImg</string>
+    <string name="welcomemsg1">Welcome Back</string>
+    <string name="signupinfo">Don’t have a account ? </string>
+    <string name="already_have_a_account">Already have a account ?</string>
+    <string name="please_fill_the_input_below">Please fill the input below</string>
+    <string name="create_account">Create Account</string>
+    <string name="_0">0</string>
+    <string name="creditmeter">Credit Meter</string>
+    <string name="credit_score_meter">Credit Score Meter</string>
+
+
+    <string-array name="job_filters_array">
+        <item>All</item>
+        <item>Data Scientist</item>
+        <item>Railway</item>
+        <item>Engineering</item>
+        <!--        <item>Other Filters...</item>-->
+    </string-array>
+    <string-array name="home_ownership">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <!--        <item>Other Filters...</item>-->
+    </string-array>
+
+
+</resources>
+

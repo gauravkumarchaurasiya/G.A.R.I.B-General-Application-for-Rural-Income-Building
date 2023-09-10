@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057124773998",
+    "project_id": "garib-3cb36",
+    "storage_bucket": "garib-3cb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057124773998:android:2ddfdbd9f83feb0645767f",
+        "android_client_info": {
+          "package_name": "com.example.garib_generalapplicationforruralincomebuilding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057124773998-jlhj965srto7k8bv1c7eltue7g8prvrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2ZFfIFf8xc9IVmLV701m1woq146C9fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057124773998-jlhj965srto7k8bv1c7eltue7g8prvrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

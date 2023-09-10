@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_options_array">
+        <![CDATA[<resources>     <string-array name="filter_options_array">         <item>All</item>         <item>Category 1</item>         <item>Category 2</item>         <!-- Add more filter options as needed -->     </string-array> </resources> ]]></string-array>
+</resources>
