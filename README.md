@@ -1,9 +1,10 @@
 # G.A.R.I.B-General-Application-for-Rural-Income-Building
 Promoting rural prosperity through a versatile income-building approach
 
-[![Video](G.A.R.I.B thumbnail.jpg)](https://youtu.be/leWy-bZ3V3U)
+[![Video](https://github.com/gauravkumarchaurasiya/G.A.R.I.B-General-Application-for-Rural-Income-Building/blob/main/G.A.R.I.B%20thumbnail.jpg)](https://youtu.be/leWy-bZ3V3U)
 
 
+Click on Image to View Video...
 
 
 
