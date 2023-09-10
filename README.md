@@ -1,7 +1,7 @@
 # G.A.R.I.B-General-Application-for-Rural-Income-Building
 Promoting rural prosperity through a versatile income-building approach
 
-[![Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Video](G.A.R.I.B thumbnail.jpg)](https://youtu.be/leWy-bZ3V3U)
       
 ### **Problem Statement:** The economic challenges faced by underprivileged individuals with limited education in accessing loans and securing suitable employment despite possessing valuable skills.
   
